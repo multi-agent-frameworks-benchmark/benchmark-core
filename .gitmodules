@@ -1,0 +1,6 @@
+[submodule "framework-modules/jade-framework"]
+	path = framework-modules/jade-framework
+	url = https://github.com/multi-agent-frameworks-benchmark/jade-framework
+[submodule "framework-modules/spade-framework"]
+	path = framework-modules/spade-framework
+	url = https://github.com/multi-agent-frameworks-benchmark/spade-framework
